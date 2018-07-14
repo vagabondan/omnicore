@@ -130,3 +130,10 @@ share/BitcoindComparisonTool.jar
 
 libbitcoinconsensus.pc
 contrib/devtools/split-debug.sh
+
+# eclipse project
+src/.cproject
+src/.project
+src/.settings/
+src/stDocVa8
+
